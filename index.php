@@ -1,4 +1,4 @@
 <?php
-header("Location: https://leather-goods-roots.business.site/");
+header("Location: https://boosterinterior.us/offi");
 die();
 ?>
